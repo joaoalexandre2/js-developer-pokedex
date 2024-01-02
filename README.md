@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/108289642?s=200&v=4" alt="Logo Santander" height=24> Santander Bootcamp DIO <img src="https://avatars.githubusercontent.com/u/26231823?s=200&v=4" alt="Logo DIO" height=24> - Pokedex <img src="./public/favicon64x64.png" height=24>
+# 
 Este repositório tem o objetivo de guardar o meu código do desafio (lab) do curso "Primeiras Páginas Interativas ocm Javascript" do bootcamp Desenvolvimento Frontend com Angular Banco Pan, ministrado pela [DIO](https://www.dio.me/).
 
 ## ⛳ Sobre o Desafio
